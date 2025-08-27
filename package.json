@@ -1,9 +1,10 @@
 {
   "name": "pest-autocomplete-support",
-  "displayName": "Pest Autocomplete Support (Workspace)",
-  "description": "Workspace helper that adds IDE-only stubs for Pest Browser so visit() chains autocomplete.",
+  "displayName": "Pest Autocomplete Support",
+  "description": "Adds autocomplete support for Pest.",
   "version": "0.0.1",
-  "publisher": "workspace",
+  "publisher": "eduwass",
+  "icon": "favicon.svg",
   "repository": {
     "type": "git",
     "url": "https://github.com/eduwass/pest-autocomplete-support"
