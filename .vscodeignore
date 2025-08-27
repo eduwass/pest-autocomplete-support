@@ -1,0 +1,9 @@
+.git
+node_modules
+**/*.map
+**/*.ts
+tests
+workbench
+.github
+.pnpm-store
+.DS_Store

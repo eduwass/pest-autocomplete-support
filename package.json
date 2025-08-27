@@ -1,0 +1,34 @@
+{
+  "name": "pest-autocomplete-support",
+  "displayName": "Pest Autocomplete Support (Workspace)",
+  "description": "Workspace helper that adds IDE-only stubs for Pest Browser so visit() chains autocomplete.",
+  "version": "0.0.1",
+  "publisher": "workspace",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eduwass/pest-autocomplete-support"
+  },
+  "engines": {
+    "vscode": "^1.89.0"
+  },
+  "categories": [
+    "Other"
+  ],
+  "activationEvents": [
+    "onLanguage:php",
+    "workspaceContains:**/vendor/pestphp/pest-plugin-browser/**"
+  ],
+  "main": "extension.js",
+  "contributes": {},
+  "scripts": {
+    "pkg": "vsce package",
+    "publish": "vsce publish"
+  },
+  "devDependencies": {
+    "@vscode/vsce": "^3.0.0"
+  },
+  "extensionKind": [
+    "ui",
+    "workspace"
+  ]
+}
