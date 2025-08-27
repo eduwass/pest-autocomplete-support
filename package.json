@@ -2,7 +2,7 @@
   "name": "pest-autocomplete-support",
   "displayName": "Pest Autocomplete Support",
   "description": "Adds autocomplete support for Pest.",
-  "version": "0.0.3",
+  "version": "1.0.0",
   "publisher": "eduwass",
   "icon": "favicon.png",
   "repository": {
@@ -31,5 +31,8 @@
   "extensionKind": [
     "ui",
     "workspace"
+  ],
+  "extensionDependencies": [
+    "bmewburn.vscode-intelephense-client"
   ]
 }
