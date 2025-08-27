@@ -7,3 +7,5 @@ workbench
 .github
 .pnpm-store
 .DS_Store
+demo.gif
+bun.lock
