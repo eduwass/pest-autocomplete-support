@@ -2,7 +2,7 @@
   "name": "pest-autocomplete-support",
   "displayName": "Pest Autocomplete Support",
   "description": "Adds autocomplete support for Pest.",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "publisher": "eduwass",
   "icon": "favicon.png",
   "repository": {
