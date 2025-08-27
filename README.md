@@ -19,7 +19,7 @@
 <details>
 <summary>Manual (VSIX)</summary>
 
-1. Download the VSIX file from repo.
+1. Download the [VSIX file](https://github.com/eduwass/pest-autocomplete-support/raw/refs/heads/main/pest-autocomplete-support-1.0.0.vsix) from repo.
 2. Open the command palette (Ctrl+Shift+P)
 3. Select `Extensions: Install from VSIX`
 4. Select the .vsix file and click install
