@@ -4,7 +4,7 @@
   "description": "Adds autocomplete support for Pest.",
   "version": "0.0.1",
   "publisher": "eduwass",
-  "icon": "favicon.svg",
+  "icon": "favicon.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/eduwass/pest-autocomplete-support"
